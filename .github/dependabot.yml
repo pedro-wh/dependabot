@@ -5,4 +5,3 @@ updates:
     schedule:
       interval: "daily" # options: "daily", "weekly", "monthly"
     open-pull-requests-limit: 0
-    automerge: true # Auto-merge compatible updates
