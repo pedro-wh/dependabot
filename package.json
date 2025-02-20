@@ -1,0 +1,22 @@
+{
+  "name": "dependabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedro-wh/dependabot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedro-wh/dependabot/issues"
+  },
+  "homepage": "https://github.com/pedro-wh/dependabot#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
